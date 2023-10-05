@@ -1,0 +1,6 @@
+:root {
+  --ff-nunito: "Nunito", sans-serif;
+}
+.year {
+  font-family: var(--ff-nunito);
+}
