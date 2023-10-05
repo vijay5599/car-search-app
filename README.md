@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `Start JSON server`
 Run the json server in the terminal.\
-Run this in the termminal 'json-server --watch cars.json --port 9090' to fetch the data.
+Run this command in the termminal 'json-server --watch cars.json --port 9090' to fetch the data.
 
 🔥 Features :
 
